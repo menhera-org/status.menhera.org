@@ -7,6 +7,10 @@
   "languageCode": "en",
   "baseURL": "http://localhost:1313/", 
   "description": "[Looking Glass](https://looking-glass.nc.menhera.org/) - [AS63806 backbone](https://www.nc.menhera.org/backbone.html)
+
+----
+
+[Routing info at Cloudflare](https://radar.cloudflare.com/routing/as63806)
 ",
   "summaryStatus": "ok", 
   "categories": [
@@ -54,7 +58,7 @@
         
       },
       {
-        "name": "sv01",
+        "name": "sv01 (s-tyo2)",
         "category": "s-tyo2", 
         
         "status": "ok",
@@ -63,7 +67,7 @@
         
       },
       {
-        "name": "sv02",
+        "name": "sv02 (s-tyo2)",
         "category": "s-tyo2", 
         
         "status": "ok",
@@ -129,7 +133,7 @@
   
   
   "buildDate": "2024-12-04",
-  "buildTime": "21:50",
+  "buildTime": "22:22",
   "buildTimezone": "JST",
   "colorBrand": "#5eaf30",
   "colorOk": "#2d5914",
