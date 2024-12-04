@@ -1,0 +1,142 @@
+{
+  "is": "index",
+  "cStateVersion": "5.6.1",
+  "apiVersion": "2.0",
+  "title": "Menhera.org Status",
+  "languageCodeHTML": "en",
+  "languageCode": "en",
+  "baseURL": "http://localhost:1313/", 
+  "description": "[Looking Glass](https://looking-glass.nc.menhera.org/) - [AS63806 backbone](https://www.nc.menhera.org/backbone.html)
+",
+  "summaryStatus": "ok", 
+  "categories": [
+      {
+        "name": "Global",
+        "description": "Global services",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "m-ibr1",
+        "description": "Menhera.org Tsuchiura",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "s-tyo2",
+        "description": "Sakura Cloud Tokyo-2",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    ,
+      {
+        "name": "g-conoha1",
+        "description": "GMO ConoHa servers",
+        "hideTitle": false,
+        "closedByDefault": false
+      }
+    
+  ],
+  
+  
+  "pinnedIssues": [],
+  "systems": [
+    
+      {
+        "name": "AS63806 backbone (m-ibr1)",
+        "category": "m-ibr1", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "sv01",
+        "category": "s-tyo2", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "sv02",
+        "category": "s-tyo2", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "neologism",
+        "category": "g-conoha1", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "addiction",
+        "category": "g-conoha1", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "email.menhera.org",
+        "category": "g-conoha1", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "dc01",
+        "category": "g-conoha1", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "Looking Glass",
+        "category": "Global", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      },
+      {
+        "name": "mdns.jp DNS Authoritative Servers",
+        "category": "Global", 
+        
+        "status": "ok",
+        
+        "unresolvedIssues": []
+        
+      }
+  ],
+  
+  
+  "buildDate": "2024-12-04",
+  "buildTime": "21:50",
+  "buildTimezone": "JST",
+  "colorBrand": "#5eaf30",
+  "colorOk": "#2d5914",
+  "colorDisrupted": "#cc4400",
+  "colorDown": "#e60000",
+  "colorNotice": "#24478f",
+  "alwaysKeepBrandColor": "true",
+  "logo": "http://localhost:1313/logo.png",
+  "googleAnalytics": "UA-00000000-1"
+}

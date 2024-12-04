@@ -1,0 +1,14 @@
+{
+  "is": "issue",
+  "title": "status.menhera.org now available",
+  "body": "\u003cp\u003eWe now have \u003ccode\u003estatus.menhera.org\u003c/code\u003e global status page for Menhera.org/AS63806!\u003c/p\u003e\n",
+  "createdAt": "2024-12-04 12:00:00 +0000 UTC",
+  "lastMod": "2024-12-04 12:00:00 +0000 UTC",
+  "permalink": "http://localhost:1313/issues/2024-12-04-hello/",
+  "severity": "<no value>",
+  "resolved": false,
+  "informational": true,
+  "resolvedAt": "<no value>",
+  "affected": [],
+  "filename": "2024-12-04-hello.md"
+}

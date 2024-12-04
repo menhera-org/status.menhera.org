@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Issues on Menhera.org Status</title>
+    <link>http://localhost:1313/issues/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    <lastBuildDate>2024-12-04T12:00:00+00:00</lastBuildDate>
+    <updated>2024-12-04T12:00:00+00:00</updated>
+    
+    
+    
+      <atom:link href="http://localhost:1313/issues/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>status.menhera.org now available</title>
+        <link>http://localhost:1313/issues/2024-12-04-hello/</link>
+        <pubDate>Wed, 04 Dec 2024 12:00:00 +0000</pubDate>
+        <guid>http://localhost:1313/issues/2024-12-04-hello/</guid>
+        <category></category>
+        <description>&lt;p&gt;We now have &lt;code&gt;status.menhera.org&lt;/code&gt; global status page for Menhera.org/AS63806!&lt;/p&gt;</description>
+        <content type="html">&lt;p&gt;We now have &lt;code&gt;status.menhera.org&lt;/code&gt; global status page for Menhera.org/AS63806!&lt;/p&gt;
+</content>
+      </item>
+    
+  </channel>
+</rss>

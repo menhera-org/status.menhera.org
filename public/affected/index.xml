@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/"/>
+    <title>Affected on Menhera.org Status</title>
+    <link>http://localhost:1313/affected/</link>
+    <description>Incident history</description>
+    <generator>github.com/cstate</generator>
+    <language>en</language>
+    
+    
+    
+      <atom:link href="http://localhost:1313/affected/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
